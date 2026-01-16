@@ -1,0 +1,32 @@
+# Compiled files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# Generated PDF (optional - you might want to include it)
+# *.pdf
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.idea/
+.vscode/
+*.sublime-*
+
+# Backup files
+*.bak
+*.backup
