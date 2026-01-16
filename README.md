@@ -5,11 +5,13 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![TikZ](https://img.shields.io/badge/TikZ-Graphics-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/yourusername/premium-latex-resume?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/i-am-paradox/resume?style=for-the-badge)
 
 **A stunning, ultra-premium resume template that will make recruiters do a double-take! 🤯**
 
 *Built with pure LaTeX & TikZ – No external icon fonts required!*
+
+**Created by [@i-am-paradox](https://github.com/i-am-paradox)** 🔥
 
 </div>
 
@@ -32,13 +34,7 @@
 
 ## 📸 Preview
 
-<div align="center">
-
-| Page Preview |
-|--------------|
-| ![Resume Preview](preview.png) |
-
-</div>
+> **Note:** To add a preview image, compile the resume in Overleaf, download the PDF, take a screenshot, and add it as `preview.png` to your repository.
 
 ---
 
@@ -55,8 +51,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/premium-latex-resume.git
-cd premium-latex-resume
+git clone https://github.com/i-am-paradox/resume.git
+cd resume
 
 # Compile (requires TeX Live or MacTeX)
 pdflatex resume.tex
