@@ -163,8 +163,10 @@ If this template helped you land your dream job, give it a ⭐!
 
 <div align="center">
 
-**Made with 💛 and LaTeX**
+**Made with 💛 by [@i-am-paradox](https://github.com/i-am-paradox)**
 
 *"Your resume is your first impression. Make it count!"*
+
+[![GitHub](https://img.shields.io/badge/Follow-@i--am--paradox-181717?style=social&logo=github)](https://github.com/i-am-paradox)
 
 </div>
